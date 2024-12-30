@@ -13,7 +13,7 @@ To Assist a cupcake shop in developing a 5-year business plan by creating financ
 - <a href="https://github.com/kaustubhpawarpradeep/Goldman-Sachs-Excel-Skills-for-business/blob/main/Cash_flow_forcast.png">Cash Flow Forcast<a/>
 ### Data Visualization:
 Designed interactive dashboards and client-ready visualizations to communicate findings effectively.
-- <a href="https://github.com/kaustubhpawarpradeep/Goldman-Sachs-Excel-Skills-for-business/blob/main/Cash_flow_forcast.png">Cash Flow Forcast<a/>
+- <a href="https://github.com/kaustubhpawarpradeep/Goldman-Sachs-Excel-Skills-for-business/blob/main/data_Visualization.png">Data Visuualization<a/>
 
 Created the following charts to summarize key insights:
 1. Column Chart: Displayed revenue trends from 2020-2024.
