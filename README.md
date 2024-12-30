@@ -35,3 +35,11 @@ Created the following charts to summarize key insights:
 2. Line Chart: Tracked closing debt levels from 2020-2024.
 3. Area Chart: Highlighted closing cash balances from 2020-2024.
 4. Combination Chart: Illustrated cupcake units sold with columns and average sale price with a line from 2020-2024.
+
+### Impact 
+The financial forecast demonstrates the following key outcomes for the cupcake shop over the 5-year period:
+1. By the end of the forecast period, the cupcake shop is projected to maintain a healthy cash balance of $52,259, ensuring liquidity and financial stability.
+2. All outstanding debt will be fully repaid, leaving the business with no financial liabilities.
+3. The shop will achieve sustained profitability over the 5-year period, supported by effective revenue growth, cost management, and strategic allocation of excess cash.
+4. With a strong financial foundation, the cupcake shop will have the capacity to reinvest its positive cash balance into future expansion opportunities, such as opening new locations, introducing new product lines, or enhancing operational efficiency.
+
